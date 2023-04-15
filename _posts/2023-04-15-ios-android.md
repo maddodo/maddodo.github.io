@@ -10,7 +10,7 @@
 
 ①**注册美区apple ID**，有两种方法：
 
-​    1.可以按常规方法注册，免费，略费时，参考： https://zhuanlan.zhihu.com/p/367821925
+​    1.可以按常规方法注册，免费，略费时，参考： [https://zhuanlan.zhihu.com/p/367821925](https://zhuanlan.zhihu.com/p/367821925)
 
 ​    2.直接买一个已经购买了shadowrocket的美区apple ID，一劳永逸。除了小火箭，也可以用[surge](https://github.com/bannedbook/fanqiang/blob/master/ios/Surge.md)、[Potatso Lite ](https://github.com/bannedbook/fanqiang/blob/master/ios/PotatsoLite.md)、[Quantumult X](https://github.com/bannedbook/fanqiang/blob/master/ios/QuantumultX.md)等app。如果你有朋友购买了小火箭的apple ID，可以借用，在你app store登录后下载（不要在设置里登录），然后再退出即可；如果你买了，同样也可以分享给别人使用。（购买地址参考：[https://store.kxsw.org](https://store.kxsw.org/) 或 [https://manateestores.us](https://manateestores.us/)）
 
@@ -34,7 +34,7 @@
 
 
 
-​       苹果翻墙扩展：强烈建议你拥有一个独自使用的美区或其他海外地区apple ID，除了可以下载小火箭，还可以下载和更新电报、脸书、推特、油管、WhatsApp、ins等所有国内封锁的应用。关注电报频道[Telegram@WMZB2023](https://t.me/wmzb2023)获取免费订阅链接，以及各种高效的工具。使用[surge](https://github.com/bannedbook/fanqiang/blob/master/ios/Surge.md)、[Potatso Lite ](https://github.com/bannedbook/fanqiang/blob/master/ios/PotatsoLite.md)、[Quantumult X](https://github.com/bannedbook/fanqiang/blob/master/ios/QuantumultX.md)等app翻墙，原理差不多，不赘述。苹果首推小火箭shadowrocket+付费机场订阅。
+​       苹果翻墙扩展：强烈建议你拥有一个独自使用的美区或其他海外地区apple ID，除了可以下载小火箭，还可以下载和更新电报、脸书、推特、油管、WhatsApp、ins、Discord等所有国内封锁的应用。关注电报频道[Telegram@WMZB2023](https://t.me/wmzb2023)获取免费订阅链接，以及各种高效的工具。使用[surge](https://github.com/bannedbook/fanqiang/blob/master/ios/Surge.md)、[Potatso Lite ](https://github.com/bannedbook/fanqiang/blob/master/ios/PotatsoLite.md)、[Quantumult X](https://github.com/bannedbook/fanqiang/blob/master/ios/QuantumultX.md)等app翻墙，原理差不多，不赘述。苹果首推小火箭shadowrocket+付费机场订阅。
 
 
 
